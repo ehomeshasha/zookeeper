@@ -1,0 +1,7 @@
+initLimit=5
+syncLimit=2
+tickTime=2000
+dataDir=/home/hadoop-user/workspace/zookeeper/data
+dataLogDir=/home/hadoop-user/workspace/zookeeper/datalog
+dynamicConfigFile=/home/hadoop-user/workspace/zookeeper/bin/../conf/zoo.cfg.dynamic
+clientPort=2181

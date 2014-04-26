@@ -1,0 +1,4 @@
+server.1=192.168.1.60:2888:3888:participant
+server.2=192.168.1.61:2888:3888:participant
+server.3=192.168.1.62:2888:3888:participant
+version=100000000
