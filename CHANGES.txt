@@ -614,6 +614,18 @@ BUGFIXES:
   ZOOKEEPER-1909. removeWatches doesn't return NOWATCHER when there is
   no watch set (Raul Gutierrez Segales via rakeshr)
 
+  ZOOKEEPER-1913. Invalid manifest files due to bogus revision property value
+  (Raul Gutierrez Segales via michim)
+
+  ZOOKEEPER-1911. REST contrib module does not include all required files when
+  packaged (Sean Mackrory via michim)
+
+  ZOOKEEPER-1819. DeserializationPerfTest calls method with wrong arguments
+  (Daniel Knightly via michim)
+
+  ZOOKEEPER-1673. Zookeeper don't support cidr in expression in ACL with ip
+  scheme (Craig Condit via michim)
+
 IMPROVEMENTS:
 
   ZOOKEEPER-1170. Fix compiler (eclipse) warnings: unused imports,
